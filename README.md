@@ -8,7 +8,7 @@ At the risk of giving up my private line of communication, I thought we could us
 
 What we came up with was a battery powered raspberry pi based handheld translator using Google's APIs with a Python front end.
 
-I wrapped Google's text to speach and translation apis in simple function calls for him to put together.  See the comments in Main.py.  To use this yourself, you'll need a google API key.  
+I wrapped Google's text to speech and translation apis in simple function calls for him to put together.  See the comments in Main.py.  To use this yourself, you'll need a google API key.  
 
 ```
 # Three functions:
