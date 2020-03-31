@@ -1,8 +1,6 @@
 # This is a translator project for the Raspberry Pi.
 
-Sometimes my wife and I need to discuss something at the dinner table in a way that the kids don't understand.  For example, "should we go out for ice cream after dinner?".  So we speak\
- to each other in French or Russian.  My 10 year old son was tired of being left out and decided there should be a way to solve this problem.  He doesn't have a phone, and the Google Ho\
- me wasn't near enough to the dinner table.
+Sometimes my wife and I need to discuss something at the dinner table in a way that the kids don't understand.  For example, "should we go out for ice cream after dinner?"  So we speak to each other in French or Russian.  My 10 year old son was tired of being left out and decided there should be a way to solve this problem.  He doesn't have a phone, and the Google Home wasn't near enough to the dinner table.
 
 At the risk of giving up my private line of communication, I thought we could use this as incentive to learn a little bit of practical programming.
 
